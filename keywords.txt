@@ -1,5 +1,15 @@
 # One search query per line. Bluesky search matches whole words, so list variants.
 # Edit this list for your project.
+left
+right
+wing
+gun
+democracy
+socialist
+christian
+conservative
+liberal
+patriarchy
 election
 senate
 congress
