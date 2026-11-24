@@ -1,0 +1,13 @@
+# One search query per line. Bluesky search matches whole words, so list variants.
+# Edit this list for your project.
+election
+senate
+congress
+"supreme court"
+immigration
+abortion
+tariffs
+#politics
+#uspolitics
+republican
+democrat
